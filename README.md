@@ -1,1 +1,1 @@
-"# My-Simple-Calculator" 
+"# Simple-Calculator" 
